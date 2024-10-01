@@ -100,7 +100,6 @@ ul {
 }
 .adress {
   font-style: normal;
-  font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -184,7 +183,7 @@ ul {
 }
 .perevagi {
   color: #2e2f42;
-  font-family: Roboto;
+
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -194,7 +193,7 @@ ul {
 }
 .perevagigi {
   color: #434455;
-  font-family: Roboto;
+
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -218,7 +217,7 @@ ul {
 .team {
   line-height: 1.11;
   color: #2e2f42;
-  font-family: Roboto;
+
   font-size: 36px;
   font-weight: 700;
   letter-spacing: 0.02em;
@@ -247,7 +246,7 @@ ul {
 }
 .listh {
   color: #2e2f42;
-  font-family: Roboto;
+
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -287,7 +286,7 @@ ul {
 }
 .limg {
   line-height: 1.11;
-  font-family: Roboto;
+
   line-height: 1.11;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -311,7 +310,7 @@ ul {
 .footp {
   line-height: 1.5;
   color: #f4f4fd;
-  font-family: Roboto;
+
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -320,7 +319,7 @@ ul {
 }
 .items {
   color: #2e2f42;
-  font-family: Roboto;
+
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -329,7 +328,6 @@ ul {
   margin-bottom: 8px;
 }
 .itemsp {
-  font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
